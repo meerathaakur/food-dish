@@ -1,0 +1,458 @@
+
+[
+    {
+        "id": 1,
+        "dishName": "Idli Vada Combo",
+        "items": [
+            {
+                "name": "Idli",
+                "quantity": 2,
+                "calories": 100
+            },
+            {
+                "name": "Vada",
+                "quantity": 1,
+                "calories": 200
+            },
+            {
+                "name": "Sambhar",
+                "quantity": 1,
+                "calories": 120
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 80
+            }
+        ],
+        "imageSrc": "https://www.squarecut.net/wp-content/uploads/2024/08/360_F_465288715_F3uc0aZMhzSbNbftEzHSb6RfUVQfCHeU.jpg",
+        "price": 120
+    },
+    {
+        "id": 2,
+        "dishName": "Dosa Sambar Combo",
+        "items": [
+            {
+                "name": "Dosa",
+                "quantity": 2,
+                "calories": 90
+            },
+            {
+                "name": "Sambhar",
+                "quantity": 1,
+                "calories": 120
+            },
+            {
+                "name": "Chutney",
+                "quantity": 2,
+                "calories": 80
+            }
+        ],
+        "imageSrc": "https://cincheats.com/cdn/shop/products/molgapodi.jpg?v=1677850701&width=1445",
+        "price": 110
+    },
+    {
+        "id": 3,
+        "dishName": "Pav Bhaji",
+        "items": [
+            {
+                "name": "Pav",
+                "quantity": 2,
+                "calories": 100
+            },
+            {
+                "name": "Bhaji",
+                "quantity": 1,
+                "calories": 150
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "calories": 20
+            },
+            {
+                "name": "Lemon",
+                "quantity": 1,
+                "calories": 10
+            }
+        ],
+        "imageSrc": "https://www.cookwithmanali.com/wp-content/uploads/2018/05/Best-Pav-Bhaji-Recipe.jpg",
+        "price": 130
+    },
+    {
+        "id": 4,
+        "dishName": "Vada Pav",
+        "items": [
+            {
+                "name": "Pav",
+                "quantity": 1,
+                "calories": 100
+            },
+            {
+                "name": "Vada",
+                "quantity": 1,
+                "calories": 200
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 80
+            }
+        ],
+        "imageSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/10/vada-pav-recipe.jpg",
+        "price": 90
+    },
+    {
+        "id": 5,
+        "dishName": "Bhel Puri",
+        "items": [
+            {
+                "name": "Puri",
+                "quantity": 1,
+                "calories": 90
+            },
+            {
+                "name": "Bhel",
+                "quantity": 1,
+                "calories": 105
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 50
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "calories": 20
+            }
+        ],
+        "imageSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/bhel-puri.webp",
+        "price": 80
+    },
+    {
+        "id": 6,
+        "dishName": "Pani Puri",
+        "items": [
+            {
+                "name": "Puri",
+                "quantity": 6,
+                "calories": 90
+            },
+            {
+                "name": "Pani",
+                "quantity": 1,
+                "calories": 70
+            },
+            {
+                "name": "Tamarind Chutney",
+                "quantity": 1,
+                "calories": 50
+            }
+        ],
+        "imageSrc": "https://static01.nyt.com/images/2024/01/17/multimedia/ND-Pani-Puri-mflg/ND-Pani-Puri-mflg-superJumbo.jpg",
+        "price": 70
+    },
+    {
+        "id": 7,
+        "dishName": "Upma",
+        "items": [
+            {
+                "name": "Upma",
+                "quantity": 1,
+                "calories": 105
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 50
+            }
+        ],
+        "imageSrc": "https://d1uz88p17r663j.cloudfront.net/original/ba32df908435796279e3d79f0d5fbdc1_Rava_Upma_-_Twist.jpg",
+        "price": 60
+    },
+    {
+        "id": 8,
+        "dishName": "Poha",
+        "items": [
+            {
+                "name": "Poha",
+                "quantity": 1,
+                "calories": 105
+            },
+            {
+                "name": "Peanuts",
+                "quantity": 1,
+                "calories": 50
+            },
+            {
+                "name": "Lemon",
+                "quantity": 1,
+                "calories": 10
+            }
+        ],
+        "imageSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/01/poha.jpg",
+        "price": 50
+    },
+    {
+        "id": 9,
+        "dishName": "Samosa",
+        "items": [
+            {
+                "name": "Samosa",
+                "quantity": 2,
+                "calories": 200
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 80
+            }
+        ],
+        "imageSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg",
+        "price": 75
+    },
+    {
+        "id": 10,
+        "dishName": "Pav Bhaji Combo",
+        "items": [
+            {
+                "name": "Pav",
+                "quantity": 2,
+                "calories": 100
+            },
+            {
+                "name": "Bhaji",
+                "quantity": 1,
+                "calories": 150
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "calories": 20
+            },
+            {
+                "name": "Lemon",
+                "quantity": 1,
+                "calories": 10
+            }
+        ],
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKNTy21WU5rC8lQE9x0tKMzVZsevLcEHkKw&s",
+        "price": 140
+    },
+    {
+        "id": 11,
+        "dishName": "Methi Thepla",
+        "items": [
+            {
+                "name": "Methi Thepla",
+                "quantity": 2,
+                "calories": 90
+            },
+            {
+                "name": "Pickle",
+                "quantity": 1,
+                "calories": 15
+            }
+        ],
+        "imageSrc": "https://www.carveyourcraving.com/wp-content/uploads/2023/03/moong-methi-thepla.jpg",
+        "price": 60
+    },
+    {
+        "id": 12,
+        "dishName": "Kachori",
+        "items": [
+            {
+                "name": "Kachori",
+                "quantity": 2,
+                "calories": 200
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 80
+            }
+        ],
+        "imageSrc": "https://www.chefkunalkapur.com/wp-content/uploads/2023/11/DSC08208-scaled.jpg?v=1699513010",
+        "price": 90
+    },
+    {
+        "id": 13,
+        "dishName": "Chole Bhature",
+        "items": [
+            {
+                "name": "Chole",
+                "quantity": 1,
+                "calories": 115
+            },
+            {
+                "name": "Bhature",
+                "quantity": 2,
+                "calories": 100
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "calories": 20
+            }
+        ],
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlhwFwHChXVw3b7rVu5_eYiB6fqvW1dZ_SQ&s",
+        "price": 150
+    },
+    {
+        "id": 14,
+        "dishName": "Aloo Tikki",
+        "items": [
+            {
+                "name": "Aloo Tikki",
+                "quantity": 2,
+                "calories": 200
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 80
+            }
+        ],
+        "imageSrc": "https://www.seriouseats.com/thmb/iGjj5YgyBmeLcPb9KAB_h46SZZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-aloo-tikki-vicky-wasik-24-6895c79edeee4e618e5fc7a1d39e85a0.jpg",
+        "price": 80
+    },
+    {
+        "id": 15,
+        "dishName": "Chana Chaat",
+        "items": [
+            {
+                "name": "Chana",
+                "quantity": 1,
+                "calories": 115
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "calories": 20
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 50
+            },
+            {
+                "name": "Lemon",
+                "quantity": 1,
+                "calories": 10
+            }
+        ],
+        "imageSrc": "https://www.madhuseverydayindian.com/wp-content/uploads/2021/05/chana-chaat-with-yogurt.jpg",
+        "price": 70
+    },
+    {
+        "id": 16,
+        "dishName": "Dhokla",
+        "items": [
+            {
+                "name": "Dhokla",
+                "quantity": 2,
+                "calories": 105
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 50
+            }
+        ],
+        "imageSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/khaman-dhokla-recipe.webp",
+        "price": 50
+    },
+    {
+        "id": 17,
+        "dishName": "Kathi Roll",
+        "items": [
+            {
+                "name": "Kathi Roll",
+                "quantity": 1,
+                "calories": 150
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "calories": 20
+            },
+            {
+                "name": "Lemon",
+                "quantity": 1,
+                "calories": 10
+            }
+        ],
+        "imageSrc": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/06/kathi-roll-recipe-500x500.jpg",
+        "price": 120
+    },
+    {
+        "id": 18,
+        "dishName": "Thali",
+        "items": [
+            {
+                "name": "Rice",
+                "quantity": 1,
+                "calories": 150
+            },
+            {
+                "name": "Dal",
+                "quantity": 1,
+                "calories": 115
+            },
+            {
+                "name": "Chapati",
+                "quantity": 2,
+                "calories": 100
+            },
+            {
+                "name": "Vegetable",
+                "quantity": 1,
+                "calories": 105
+            }
+        ],
+        "imageSrc": "https://b.zmtcdn.com/data/pictures/6/21349466/bd6accc95be76d9071208e1ff51f1bd0.jpg?fit=around|750:500&crop=750:500;*,*",
+        "price": 180
+    },
+    {
+        "id": 19,
+        "dishName": "Khaman",
+        "items": [
+            {
+                "name": "Khaman",
+                "quantity": 2,
+                "calories": 105
+            },
+            {
+                "name": "Chutney",
+                "quantity": 1,
+                "calories": 50
+            }
+        ],
+        "imageSrc": "https://www.mygingergarlickitchen.com/wp-content/uploads/2015/10/recipes-Gujarati-Khaman-Dhokla-in-2-Styles-anupama-paliwal-my-ginger-garlic-kitchen-4.jpg",
+        "price": 60
+    },
+    {
+        "id": 20,
+        "dishName": "Aloo Paratha",
+        "items": [
+            {
+                "name": "Aloo Paratha",
+                "quantity": 2,
+                "calories": 200
+            },
+            {
+                "name": "Yogurt",
+                "quantity": 1,
+                "calories": 70
+            },
+            {
+                "name": "Pickle",
+                "quantity": 1,
+                "calories": 15
+            }
+        ],
+        "imageSrc": "https://cookingfromheart.com/wp-content/uploads/2020/09/Aloo-Paratha-4.jpg",
+        "price": 140
+    }
+]
